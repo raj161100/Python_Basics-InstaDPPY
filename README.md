@@ -4,3 +4,5 @@ This simple python code lets you download Instagram display picture of the user 
 This downloads the DP and saves it in ypur system for you.
 
 There are 2 codes and both of them work.
+
+One of the methods uses import instaloader library.
